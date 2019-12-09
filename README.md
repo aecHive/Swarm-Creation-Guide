@@ -2,7 +2,7 @@
 
 ## Overview
 
-Firstly, read more about the aecHive community on the landing page [here](https://aechive.net). The platform represents a set of components to aid community lead innovation. 
+Firstly, read more about the aecHive community at our home page [here](https://aechive.net). The platform represents a set of components to aid community lead innovation. 
 
 ## Content
 
@@ -14,7 +14,8 @@ A glossary set of terms and context. Foundational for use by project stakeholder
 
 A set of industry resources built and shared by the community.
 
-* [Awesome BIM](https://github.com/mitevpi/awesome-bim) - A curated collection of useful BIM (Building Information Modeling) resources, libraries, software and frameworks for AEC research, application development, data analysis, and general computation.
+* [Awesome BIM](https://mitevpi.github.io/awesome-bim/) - A curated collection of useful BIM (Building Information Modeling) resources, libraries, software and frameworks for AEC research, application development, data analysis, and general computation.
+* [AEC Startups](https://www.aecstartups.com/) - A curated collection of AEC related startups.
 
 ### Swarms
 
