@@ -16,6 +16,7 @@ A set of industry resources built and shared by the community.
 
 * [Awesome BIM](https://mitevpi.github.io/awesome-bim/) - A curated collection of useful BIM (Building Information Modeling) resources, libraries, software and frameworks for AEC research, application development, data analysis, and general computation.
 * [AEC Startups](https://www.aecstartups.com/) - A curated collection of AEC related startups.
+* [Design Computation](http://wiki.designcomputation.org/home/index.php/Main_Page) - A free semantic framework for design and computation theories, applications, relevant scientific research and associated technologies.
 
 ### Swarms
 
